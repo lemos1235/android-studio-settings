@@ -1,0 +1,14 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
+    <option name="nonFavorites">
+      <list>
+        <option value="tag:LeafVpnService" />
+        <option value="message: configure" />
+        <option value="configure content" />
+        <option value="level:debug " />
+        <option value="DEBUG" />
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,47 @@
+<templateSet group="Flutter">
+  <template name="impm" value="import 'package:flutter/material.dart';" description="import material package" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="FLUTTER" value="true" />
+    </context>
+  </template>
+  <template name="text" value="Text(&quot;$text$&quot;)" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+      <option name="FLUTTER" value="true" />
+    </context>
+  </template>
+  <template name="setstate" value="setState(() {&#10;    $text$&#10;});" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="sized" value="SizedBox($SIZE$),$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="SIZE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+      <option name="FLUTTER" value="true" />
+    </context>
+  </template>
+  <template name="gapw" value="SizedBox(width: $SIZE$),$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="SIZE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+      <option name="FLUTTER" value="true" />
+    </context>
+  </template>
+  <template name="gap" value="SizedBox(height: $SIZE$),$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="SIZE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+      <option name="FLUTTER" value="true" />
+    </context>
+  </template>
+  <template name="onTap" value="() =&gt; " description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+      <option name="FLUTTER" value="true" />
+    </context>
+  </template>
+</templateSet>
