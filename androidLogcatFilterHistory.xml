@@ -1,8 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="message:JpScan" />
     <option name="nonFavorites">
       <list>
+        <option value="message:JpScan" />
+        <option value="message~: .*JpScan.*" />
+        <option value="message~: .*" />
+        <option value="message~: *" />
+        <option value="message~: " />
+        <option value="message~: JpScan" />
+        <option value="message~:JpScan" />
+        <option value="JpScan" />
         <option value="tag:LeafVpnService" />
         <option value="message: configure" />
         <option value="configure content" />
