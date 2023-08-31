@@ -11,7 +11,7 @@
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
-    <option name="lastReplacementTargetLanguage" value="JAPANESE" />
+    <option name="lastReplacementTargetLanguage" value="ENGLISH" />
     <option name="newTranslationDialogHeight" value="260" />
     <option name="newTranslationDialogX" value="796" />
     <option name="newTranslationDialogY" value="451" />
@@ -25,7 +25,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="JAPANESE" value="9" />
+        <entry key="ENGLISH" value="4" />
+        <entry key="JAPANESE" value="14" />
       </map>
     </option>
   </component>
