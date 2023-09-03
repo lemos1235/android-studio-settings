@@ -4,10 +4,9 @@
   </component>
   <component name="Translation.Settings">
     <option name="autoReplace" value="true" />
-    <option name="primaryLanguage" value="JAPANESE" />
+    <option name="primaryLanguage" value="CHINESE" />
     <option name="selectTargetLanguageBeforeReplacement" value="true" />
     <option name="showReplacementActionInContextMenu" value="true" />
-    <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
