@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1693487138361" />
+    <option name="lastTrimTime" value="1694015944303" />
   </component>
   <component name="Translation.Settings">
     <option name="autoReplace" value="true" />
@@ -24,7 +24,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="ENGLISH" value="5" />
         <entry key="JAPANESE" value="14" />
       </map>
     </option>
